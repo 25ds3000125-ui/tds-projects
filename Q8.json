@@ -1,0 +1,6 @@
+{
+  "prompt": "A surrealist, high-detail photograph of an orchard where every apple has been polished to a mirror-shine, but the apples are actually hollow glass spheres tied to dead, gray branches with industrial wire. A lone figure is meticulously measuring the diameter of a glass sphere with a silver caliper, ignoring the fact that the tree is rotting. Cold, clinical lighting, hyper-realistic textures of glass and decaying wood, 8k, eerie and somber atmosphere.",
+  "model": "Flux Pro 1.1",
+  "paradox": "Goodhart's Law",
+  "visual_logic": "The viewer sees the 'target' (perfectly shaped apples) achieved through artificial means (glass), while the underlying system (the tree) has withered away because it was no longer the priority."
+}
