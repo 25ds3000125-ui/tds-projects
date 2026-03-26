@@ -1,0 +1,7 @@
+{
+  "prompt": "A high-concept, cinematic macro photograph of extreme wealth inequality. A colossal, sharp golden monolith, textured with fine geometric engravings, occupies the top 45% of the frame. Its lethal, needle-like point is pressing with immense gravitational force into the center of a fragile, translucent sphere that contains a dense, swirling cloud of 7.8 billion tiny, flickering white sparks. The sphere is visibly deforming and showing hairline fractures under the weight. The background is a vast, cold void. Lighting is harsh and dramatic, creating a deep shadow that swallows the bottom of the sphere. 8k resolution, photorealistic textures of gold and cracked glass, profound atmospheric tension.",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "World Inequality Report 2022 (World Inequality Database)",
+  "dataset_url": "https://wir2022.wid.world/chapter-4/",
+  "insight": "The global top 1% holds 45% of all household wealth, creating a crushing gravitational imbalance that threatens the stability of the remaining 99%."
+}
