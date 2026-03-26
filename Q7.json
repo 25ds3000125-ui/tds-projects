@@ -1,0 +1,8 @@
+{
+  "prompt": "An authentic 19th-century naturalist's scientific engraving of a topographical basin. The image features fine black ink cross-hatching and delicate stippling on aged, cream-colored heavy paper. A series of precise, hand-drawn dashed lines and tiny ink arrows descend from various high ridges of a rugged mountain, all converging at a single dark, still lake in the valley floor. The composition includes a small circular inset at the bottom-right showing a magnified cross-section of the slope's curvature. Faded handwritten Latin taxonomies at the margins. Hand-tinted with muted, desaturated watercolors in sage and ochre. High-resolution, zero digital noise, looks like a page from a 1850s Royal Society journal.",
+  "model": "Flux Pro 1.1",
+  "concept": "Gradient Descent",
+  "tradition_name": "19th-century Naturalist Illustration / Scientific Engraving",
+  "tradition_period": "1830s–1880s",
+  "tradition_approach": "Used copperplate-style cross-hatching and stippling to define the 'loss landscape.' Employed traditional vector-like arrows and dashed lines typical of Victorian field notes to indicate the directional flow toward a local minimum."
+}
